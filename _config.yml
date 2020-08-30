@@ -1,10 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: ummjevel
+author: ummjevel
+email: mseagle2023@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  휴학생입니다. 방황중입니다.
+  알고리즘을 풀고 있습니다.
+  요즘은 취미로 미싱을 배우고 있습니다.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,8 +12,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Jeon Minjeong
+  tagline: Developer. 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -23,8 +23,8 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
+    #twitter: samarsault
+    github:  github.com/ummjevel
     linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
