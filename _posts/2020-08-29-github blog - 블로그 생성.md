@@ -6,8 +6,6 @@ categories: github blog
 tags: github blog github.io jekyll plainwhite jekylltheme
 ---
 
-# github blog - 블로그 생성
-
 ## 개요
 
 github 블로그를 생성한다.  
