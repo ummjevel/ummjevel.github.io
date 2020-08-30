@@ -2,8 +2,8 @@
 layout: post
 title:  "github blog - 댓글 설정"
 date:   2020-08-29
-categories: github blog
-tags: github blog github.io jekyll plainwhite jekylltheme
+categories: [github blog]
+tags: [github, jekyll, plainwhite]
 ---
 
 ## 개요

@@ -1,8 +1,15 @@
 ---
-layout: default
+layout: post
+title:  "about"
+date:   2020-08-29
+categories: about
+permalink: /about/
+tags: about
 ---
-<div class="post-container">
-    <div class="post">
-        
-    </div>
-</div>
+
+휴학생입니다.
+
+매주 기록용으로 개설하였습니다.
+
+현재는 방황중입니다.
+
