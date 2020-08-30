@@ -32,14 +32,15 @@ macOS Catalina 10.15.6
     
     하단의 GET STARTED 버튼 클릭,  
     I want to install Disqus on my site 클릭 후,  
-    사이트주소 입력 (여기서 입력하는 주소가 disqus_shortname 이다!!)  
+    사이트주소 입력  
+    ( [아이디].github.io 라고 입력,  여기서 입력하는 주소가 disqus_shortname 이 되는 것을 이후에 볼 수 있다.)  
     하단의 Basic Plan 선택 (이게 free)  
     하단의 Universal Code 선택
     나오는 코드를 포스팅 페이지의 공통 레이아웃에 붙여넣기 하면 되는데,
 
 
     내가 쓰는 테마의 경우 README.md 에 disqus_shortname 만 넣어주면 작동한다고 설명이 나와있었다.  
-    
+
     <img width="817" alt="스크린샷 2020-08-30 오후 2 28 44" src="https://user-images.githubusercontent.com/49097057/91651902-22b98400-eacd-11ea-9806-bf86236f22d7.png">
 
     포스트 레이아웃을 한번 확인해보면, 이렇게 되어있다. 
