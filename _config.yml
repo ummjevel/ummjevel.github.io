@@ -2,9 +2,7 @@ title: ummjevel
 author: ummjevel
 email: mseagle2023@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  휴학생입니다. 방황중입니다.
-  알고리즘을 풀고 있습니다.
-  요즘은 취미로 미싱을 배우고 있습니다.
+  no description
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -50,7 +48,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+# theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
