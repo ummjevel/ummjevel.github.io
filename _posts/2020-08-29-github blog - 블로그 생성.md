@@ -19,7 +19,7 @@ github 블로그를 생성한다.
 
 macOS Catalina 10.15.6
 
-## 만들기
+## 생성
 
 1. Jekyll Theme 선택  
    [Jekyll Theme](http://jekyllthemes.org/)
